@@ -1,4 +1,4 @@
-# Introducao
+# Introdução ao Git e GitHub
 ### Sobre o projeto: 
 Repositório criado com o objetivo de apresentar os conceitos básicos de Git e GitHub como tarefa da aula de mesmo tema da entidade PET do curso de Sistemas de Informação.
 ### O que é Git?
